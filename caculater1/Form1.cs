@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace caculater1
 {
-    public partial class Form1 : Form
+    public partial class Tinhtoan : Form
     {
-        public Form1()
+        public Tinhtoan()
         {
             InitializeComponent();
         }
